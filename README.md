@@ -56,7 +56,7 @@ A tutorial repository to generate ground truth pose for markers, objects and rob
 
 <div align="center">
   <img src="media/handposeseyposes.gif" width="300">
-  <img src="media/handeycalibration.png" width="300">
+  <img src="media/handeyecalibration.png" width="300">
 </div>
 
 <div align="center">
