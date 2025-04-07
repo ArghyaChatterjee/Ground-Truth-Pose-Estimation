@@ -65,8 +65,8 @@ A tutorial repository to generate ground truth pose for markers, objects and rob
 </div>
 
 <div align="center">
-  <img src="media/robot1.png" width="400">
-  <img src="media/robot2.png" width="300">
+  <img src="media/robot_1.png" width="400">
+  <img src="media/robot_2.png" width="300">
 </div>
 
 ### Resources
