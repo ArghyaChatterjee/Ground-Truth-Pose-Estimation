@@ -4,7 +4,7 @@ A tutorial repository to generate ground truth pose for markers, objects and rob
 
 ## Marker Pose Estimation
 <div align="center">
-  <img src="media/rviz.png" width="400">
+  <img src="media/Camera_to_Marker_Transform.png" width="400">
 </div>
 
 ### Resources
