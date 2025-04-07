@@ -1,6 +1,6 @@
 # Ground Truth Pose Estimation
 
-A tutorial repository to generate ground truth pose for objects and robots.
+A tutorial repository to generate ground truth pose for markers, objects and robots.
 
 ## Marker Pose Estimation
 <div align="center">
