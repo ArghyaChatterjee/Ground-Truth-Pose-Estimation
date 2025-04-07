@@ -50,18 +50,18 @@ A tutorial repository to generate ground truth pose for markers, objects and rob
 ## Manipulator to Camera Pose Estimation
 
 <div align="center">
-  <img src="media/rviz.png" width="400">
-  <img src="media/zed_coordinate_system.png" width="300">
+  <img src="media/Hand-Eye-Calibration.png" width="400">
+  <img src="media/trackeralignment.png" width="300">
 </div>
 
 <div align="center">
-  <img src="media/rviz.png" width="400">
-  <img src="media/zed_coordinate_system.png" width="300">
+  <img src="media/handeycalibration.gif" width="400">
+  <img src="media/handposeseyposes.gif" width="300">
 </div>
 
 <div align="center">
-  <img src="media/rviz.png" width="400">
-  <img src="media/zed_coordinate_system.png" width="300">
+  <img src="media/handeyesemidirect.jpg" width="400">
+  <img src="media/handeyedirect.jpg" width="300">
 </div>
 
 <div align="center">
