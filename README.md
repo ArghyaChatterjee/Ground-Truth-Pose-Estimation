@@ -10,6 +10,7 @@ A tutorial repository to generate ground truth pose for markers, objects and rob
 ### Resources
 - Aligning rigid body pivot point with a replicated 3D Model [[website]](https://docs.optitrack.com/motive/rigid-body-tracking/aligning-rigid-body-pivot-point-with-a-replicated-3d-model)
 - Rigid Body Animation [[code]](https://aaronolsen.github.io/tutorials/motion/unification.html)
+- Mocap Calibration Research [[code]](https://github.com/SamDSchofield/mocap_calibration_research) [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6385773) 
 
 ## Robot Pose Estimation
 
