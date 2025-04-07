@@ -50,8 +50,8 @@ A tutorial repository to generate ground truth pose for markers, objects and rob
 ## Manipulator to Camera Pose Estimation
 
 <div align="center">
-  <img src="media/Hand-Eye-Calibration.png" width="400">
-  <img src="media/trackeralignment.png" width="300">
+  <img src="media/Hand-Eye-Calibration.jpg" width="400">
+  <img src="media/trackeralignment.jpg" width="300">
 </div>
 
 <div align="center">
